@@ -17,9 +17,14 @@ Basically using the app you take a photo of any landmark and it will return the 
 
 - A number of smaller sample android and java applications:
 
--- [PoohlaHome](https://github.com/ninjayoto/PoohlaHome)
+-- [PoohlaHome](https://github.com/ninjayoto/PoohlaHome) a media app
 
--- [TaskPathApp](https://github.com/ninjayoto/TaskPathApp)
+![Imgur](http://i.imgur.com/tWpjh0e.gif)
+
+
+-- [TaskPathApp](https://github.com/ninjayoto/TaskPathApp) to do list anndroid app
+
+![Imgur](http://i.imgur.com/VxyNlw4.gif)
 
 -- [AirWeather](https://github.com/ninjayoto/AirWeather)
 
