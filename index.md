@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Nijayoto's Github Page
 
-You can use the [editor on GitHub](https://github.com/ninjayoto/ninjayoto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Developer from Calgary, Alberta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I develop Android apps, and I create automated minions to test other developers code. 
+And when my minions are not trolling any developers, they go out and do other tasks in my behalf, they scrape the web for info and take  action on their own.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+- *Teleporter* an android app that won _Best New Getting Around Town App_ @ a Red Hat Hackathon end of 2017, basically using the app you take a photo of any landmark and it will return the name of the landmark, the nearest airport and the ticket price + a 360 panoramic photo of the location.
+[Teleporter](https://devpost.com/software/teleporter)
 
-# Header 1
-## Header 2
-### Header 3
+### Github repos
 
-- Bulleted
-- List
+I love githib and the wonderful platform it provides for the open-source community; but because it provides free private repos, I host most of my personal work on GitLab.
 
-1. Numbered
-2. List
+But yoou can still find some of my older projects on github, and many forks of intresting projects:
+[github repos](https://github.com/ninjayoto)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninjayoto/ninjayoto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
