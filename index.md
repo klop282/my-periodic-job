@@ -32,7 +32,7 @@ And when my minions are not trolling any developers, they go out and do other ta
 
 ### Github repos
 
-I love githib and the wonderful platform it provides for the open-source community; but because it provides free private repos, I host most of my personal work on GitLab.
+[I love github](https://github.com/thank-you-github/thank-you-github) and the wonderful platform it provides for the open-source community; but because it provides free private repos, I host most of my personal work on GitLab.
 
 But yoou can still find some of my older projects on github, and many forks of intresting projects:
 [github repos](https://github.com/ninjayoto)
