@@ -33,7 +33,5 @@ Basically using the app you take a photo of any landmark and it will return the 
 
 ### Github repos
 
-[I love github](https://github.com/thank-you-github/thank-you-github) and the wonderful platform it provides for the open-source community; but because it provides free private repos, I host most of my personal work on GitLab.
-
-Only few old projects on github, and many forks of intresting projects are on my Github.
+[I love github](https://github.com/thank-you-github/thank-you-github) and the wonderful platform it provides for the open-source community; few of my projects are hosted here, but I also host private repos elsewhere.
 
