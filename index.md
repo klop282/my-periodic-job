@@ -24,9 +24,9 @@ And when my minions are not trolling any developers, they go out and do other ta
 
 -- [AppNetSample](https://github.com/ninjayoto/AppNetSample)
 
--- [https://github.com/ninjayoto/ProxSensor](https://github.com/ninjayoto/ProxSensor)
+-- [ProxSensor](https://github.com/ninjayoto/ProxSensor)
 
--- [https://github.com/ninjayoto/PopularMovies1](https://github.com/ninjayoto/PopularMovies1)
+-- [PopularMovies1](https://github.com/ninjayoto/PopularMovies1)
 
 
 
