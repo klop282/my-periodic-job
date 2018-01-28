@@ -11,7 +11,8 @@ And when my minions are not trolling any developers, they go out and do other ta
 
 - [Teleporter](https://devpost.com/software/teleporter) :  an android app that won _Best New Getting Around Town App_ @ a Red Hat Hackathon end of 2017, basically using the app you take a photo of any landmark and it will return the name of the landmark, the nearest airport and the ticket price + a 360 panoramic photo of the location.
 
-<img src="https://i.imgur.com/wkosIUz.jpg?1">
+-![alt text](https://i.imgur.com/wkosIUz.jpg?1 "Teleporter App")		
+
 
 - A number of smaller sample android and java applications:
 
