@@ -1,4 +1,4 @@
-## Welcome to Nijayoto's Github Page
+## Welcome to Ninjayoto's Github Page
 
 Developer from Calgary, Alberta
 
