@@ -9,8 +9,9 @@ And when my minions are not trolling any developers, they go out and do other ta
 
 ### Projects
 
-- [Teleporter](https://devpost.com/software/teleporter) :  a hackathon prize winning android app _Best New Getting Around Town App_ @ a Red Hat Hackathon end of 2017.
-Basically using the app you take a photo of any landmark and it will return the name of the landmark, the nearest airport and the ticket price + a 360 panoramic photo of the location. This is made possible by using Google's Cloud Vision.
+- [Teleporter](https://devpost.com/software/teleporter) : 
+Basically the app allow you take or upload a photo of a landmark, and it will return the name of the landmark, the nearest airport and the cheapest ticket price to get there + a 360 panoramic photo of the area. This is made possible by using Google Cloud Vision AI Machine Learning.
+This app won a hackathon prize for _Best New Getting Around Town App_ @ Red Hat OpenShift _Hack Your Travel_ Hackathon, end of 2017.
 
  ![alt text](https://i.imgur.com/wkosIUz.jpg?1 "Teleporter App")
 
