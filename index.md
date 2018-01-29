@@ -25,11 +25,20 @@ Basically using the app you take a photo of any landmark and it will return the 
 
 ![Imgur](http://i.imgur.com/VxyNlw4.gif)
 
--- [AirWeather](https://github.com/ninjayoto/AirWeather)
+-- [AirWeather](https://github.com/ninjayoto/AirWeather) Returns weather for any airport code you enter
 
--- [AppNetSample](https://github.com/ninjayoto/AppNetSample)
+![Imgur](http://i.imgur.com/HbMnglr.png?1)
 
--- [ProxSensor](https://github.com/ninjayoto/ProxSensor)
+
+-- [AppNetSample](https://github.com/ninjayoto/AppNetSample) Media aggrigator
+
+![Imgur](http://i.imgur.com/tEsfotl.png?1)
+
+
+-- [ProxSensor](https://github.com/ninjayoto/ProxSensor) App using the proximity sensor API
+
+![alt text](http://i.imgur.com/SPApsOA.png?1 "Close")
+![alt text](http://i.imgur.com/rs2Nuqn.png?1 "Far")
 
 -- [PopularMovies1](https://github.com/ninjayoto/PopularMovies1)
 
@@ -37,5 +46,5 @@ Basically using the app you take a photo of any landmark and it will return the 
 
 ### Github repos
 
-[I love github](https://github.com/thank-you-github/thank-you-github) and the wonderful platform it provides for the open-source community; few of my projects are hosted here, but I also host private repos elsewhere.
+[I love github](https://github.com/thank-you-github/thank-you-github) and the wonderful platform it provides for the open-source community; few of my projects are hosted here, but private and work repos elsewhere.
 
