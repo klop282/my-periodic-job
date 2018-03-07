@@ -7,6 +7,12 @@ Developer from Calgary, Alberta
 I develop Android apps, and I create automated minions to test other developers code. 
 And when my minions are not trolling any developers, they go out and do other tasks in my behalf, they scrape the web for info and take  action on their own.
 
+
+### Articles
+
+Hackernoon : [56 seconds to get gitlab to do periodic jobs for you!](https://medium.com/@YYC_Ninja/56-seconds-to-get-gitlab-to-do-periodic-jobs-for-you-6a731b977559)
+
+
 ### Projects
 
 - [Teleporter](https://devpost.com/software/teleporter) : 
